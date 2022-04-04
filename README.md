@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexisHomeLabs
 - 👀 I’m interested in ... technology and decentralized information
-- 🌱 I’m currently learning ... wxperimenting with stuff in Virtual Machines
+- 🌱 I’m currently learning ... Virtual Machines & Hardware stuff
 
 
 
